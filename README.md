@@ -1,4 +1,4 @@
-# Read Me Template
+# Génial Restaurant
 
 ![Project Image](genial-restaurant-2.jpeg)
 
