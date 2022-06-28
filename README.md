@@ -62,6 +62,6 @@ SOFTWARE.
 ## Author Info
 
 - Twitter - [@BrandonGuard99](https://twitter.com/BrandonGuard99)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Website - [Brandon Guard](https://www.brandonguard.com)
 
 [Back To The Top](#read-me-template)
